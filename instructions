@@ -1,0 +1,2 @@
+To install important modules, use "npm install" in terminal.
+It will install all the necessary modules that are present in JSON file.
